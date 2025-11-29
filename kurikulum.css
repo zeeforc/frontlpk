@@ -39,7 +39,8 @@ body {
   position: relative;
   overflow: hidden;
   z-index: 0;
-  padding-block: 5.5rem; /* jarak atas-bawah seperti referensi */
+  padding-block: 5.5rem;
+  /* padding-top: 7rem; */
 }
 
 .hero-inner {
@@ -52,6 +53,7 @@ body {
   font-weight: 600;
   line-height: 1.05;
   color: var(--navy);
+  padding-top: 3rem;
 }
 
 .hero-title span {

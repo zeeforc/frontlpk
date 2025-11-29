@@ -57,6 +57,7 @@ body {
   font-size: clamp(2.8rem, 4vw + 1.5rem, 3.9rem);
   font-weight: 600;
   line-height: 1.05;
+  padding-top: 3rem;
 }
 
 .btn-cta {

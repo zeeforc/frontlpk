@@ -29,6 +29,7 @@ body {
   font-size: clamp(2.5rem, 4vw + 1rem, 3.8rem);
   font-weight: 600;
   line-height: 1.1;
+  padding-top: 3rem;
 }
 
 .hero-desc {
